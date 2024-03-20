@@ -1,0 +1,9 @@
+build/default/production/Main.p1:	\
+	buzzer.h	\
+	Rs485.h	\
+	dehumi.h	\
+	Main.h	\
+	Timer.h	\
+	Segment.h	\
+	eeprom.h	\
+	Testmode.h	\
